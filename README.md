@@ -8,6 +8,8 @@
 
 清华大学源地址：https://pypi.tuna.tsinghua.edu.cn/simple
 
+venv :f:/源代码管理仓库/MyHome/.venv/Scripts/python.exe -m pip install  -U --force-reinstall -i https://pypi.tuna.tsinghua.edu.cn/simple 
+
 源代码管理如何变更储存库
 
 在 VS Code 中变更（切换）源代码管理（SCM）所关联的储存库，通常有以下几种常见方式：
