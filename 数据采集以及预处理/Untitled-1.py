@@ -1,15 +1,36 @@
+# 导入依赖包
 import requests as req
-#设置伪装信息
+import re
+import json
+
+# 设置伪装信息
 heads = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0',
-    'cookie': 'BAIDUID=2B52F36A6329E6FC13C36BBE5660215A:FG=1; BAIDUID_BFESS=2B52F36A6329E6FC13C36BBE5660215A:FG=1; BIDUPSID=2B52F36A6329E6FC13C36BBE5660215A; PSTM=1756855746; H_PS_PSSID=62325_63142_63327_63947_64005_64047_64358_64363_64396_64439_64450_64460_64553_64580_64597_64612_64644_64718_64741_64743_64738_64744_64701_64814_64848_64876_64834_64906_64916_64948_64972_65006; PAD_BROWSER=1; BD_UPN=12314753; BA_HECTOR=8kal2hah0g842la4802la580alag8l1kbeve324; ZFY=pYv3iJ:BkU1EJcyY1PAePQIC:AXIP1uehEuKFiW85ZXIc:C; BDRCVFR[BIVAaPonX6T]=aeXf-1x8UdYcs; BD_HOME=1'
+    'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36'
 }
 
-#发送请求
+# 发送请求
 res = req.get('https://www.baidu.com', headers=heads)
 
-#设置中文编码
+# 设置中文编码
 res.encoding = 'utf-8'
 
-#获取响应数据
-print(res.text)
+# 打印信息
+startIndex = res.text.index('<textarea id="hotsearch_data" style="display:none;">')
+endIndex = res.text.index('</textarea></div></div>')
+print(startIndex)
+print(endIndex)
+
+allNewsStr = res.text[startIndex:endIndex].replace('<textarea id="hotsearch_data" style="display:none;">', '')
+print(allNewsStr)
+# 把字符串转成字典格式
+news = json.loads(allNewsStr)
+print(news['hotsearch'])
+
+# 开始解析数据 <span class="title-content-title">00后女钢筋工每天工地干10小时赚320</span>
+# <span class="title-content-title">(.*)</span>
+result = re.findall('<span class="title-content-title">(.*?)</span>', res.text)
+print(result)
+
+# <textarea id="hotsearch_data" style="display:none;">(.*)</textarea>
+result2 = re.findall('<script type="application/json" id="placeholder-data" data-for="result-data">(.*)</script>', res.text)
+print(result2)
