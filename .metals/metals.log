@@ -479,3 +479,387 @@
 信息: Unsupported notification method: $/setTrace
 9月 15, 2025 5:21:43 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2025.09.15 17:26:36 INFO  Shutting down server
+2025.09.15 17:26:36 INFO  shutting down Metals
+2025.09.15 17:26:36 INFO  Exiting server
+2025.09.15 17:30:44 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.15 17:30:46 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.15 17:30:46 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.15 17:30:46 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.15 17:30:46 INFO  Successfully validated 7 migrations (execution time 00:00.145s)
+2025.09.15 17:30:46 INFO  Successfully validated 7 migrations (execution time 00:00.145s)
+2025.09.15 17:30:46 INFO  Successfully validated 7 migrations (execution time 00:00.145s)
+2025.09.15 17:30:46 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 17:30:46 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 17:30:46 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 17:30:46 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 17:30:46 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 17:30:46 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 17:30:46 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 17:30:46 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 17:30:46 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 17:30:46 WARN  Build server is not auto-connectable.
+2025.09.15 17:30:47 WARN  Build server is not auto-connectable.
+2025.09.15 17:30:47 WARN  Build server is not auto-connectable.
+9月 15, 2025 5:32:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:32:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:32:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:32:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:32:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:32:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:44:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:44:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:44:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:46:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:44 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:44 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:47:44 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:57:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:58:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:58:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 5:58:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:04:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:04:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:04:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:29 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:29 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:29 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:06:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:25 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:25 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:25 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:07:52 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:08:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:20 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:20 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:20 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:09:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2025.09.15 18:09:27 INFO  Shutting down server
+2025.09.15 18:09:27 INFO  shutting down Metals
+2025.09.15 18:09:27 INFO  Exiting server
+2025.09.15 18:11:08 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.15 18:11:11 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.15 18:11:11 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.15 18:11:11 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.15 18:11:11 INFO  Successfully validated 7 migrations (execution time 00:00.062s)
+2025.09.15 18:11:11 INFO  Successfully validated 7 migrations (execution time 00:00.062s)
+2025.09.15 18:11:11 INFO  Successfully validated 7 migrations (execution time 00:00.062s)
+2025.09.15 18:11:11 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 18:11:11 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 18:11:11 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 18:11:11 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 18:11:11 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 18:11:11 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 18:11:11 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 18:11:11 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 18:11:11 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 18:11:11 WARN  Build server is not auto-connectable.
+2025.09.15 18:11:11 WARN  Build server is not auto-connectable.
+2025.09.15 18:11:11 WARN  Build server is not auto-connectable.
+9月 15, 2025 6:12:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:12:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:12:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:13:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:13:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:13:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:14:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:14:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:14:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:15:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:15:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:15:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:41 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:41 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:16:41 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:20:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:56 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:56 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:56 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:21:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:22:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:22:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:22:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:23:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:23:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 6:23:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2025.09.15 18:23:52 INFO  Shutting down server
+2025.09.15 18:23:52 INFO  shutting down Metals
+2025.09.15 18:23:52 INFO  Exiting server
+2025.09.15 20:05:33 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.15 20:05:35 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.15 20:05:35 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.15 20:05:35 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.15 20:05:35 INFO  Successfully validated 7 migrations (execution time 00:00.170s)
+2025.09.15 20:05:35 INFO  Successfully validated 7 migrations (execution time 00:00.170s)
+2025.09.15 20:05:35 INFO  Successfully validated 7 migrations (execution time 00:00.169s)
+2025.09.15 20:05:35 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 20:05:35 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 20:05:35 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 20:05:35 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 20:05:35 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 20:05:35 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 20:05:35 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 20:05:36 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 20:05:35 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 20:05:36 WARN  Build server is not auto-connectable.
+2025.09.15 20:05:36 WARN  Build server is not auto-connectable.
+2025.09.15 20:05:36 WARN  Build server is not auto-connectable.
+2025.09.15 20:11:14 INFO  Shutting down server
+2025.09.15 20:11:14 INFO  shutting down Metals
+2025.09.15 20:11:14 INFO  Exiting server
+2025.09.15 21:17:42 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.15 21:17:43 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.15 21:17:43 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.15 21:17:43 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.15 21:17:43 INFO  Successfully validated 7 migrations (execution time 00:00.055s)
+2025.09.15 21:17:43 INFO  Successfully validated 7 migrations (execution time 00:00.055s)
+2025.09.15 21:17:43 INFO  Successfully validated 7 migrations (execution time 00:00.055s)
+2025.09.15 21:17:43 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 21:17:43 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 21:17:43 INFO  Current version of schema "PUBLIC": 7
+2025.09.15 21:17:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 21:17:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 21:17:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.15 21:17:43 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 21:17:43 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 21:17:43 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.15 21:17:43 WARN  Build server is not auto-connectable.
+2025.09.15 21:17:43 WARN  Build server is not auto-connectable.
+2025.09.15 21:17:43 WARN  Build server is not auto-connectable.
+9月 15, 2025 9:20:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 9:20:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 15, 2025 9:20:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
