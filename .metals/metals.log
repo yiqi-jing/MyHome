@@ -863,3 +863,6 @@
 信息: Unsupported notification method: $/setTrace
 9月 15, 2025 9:20:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2025.09.15 22:59:59 INFO  Shutting down server
+2025.09.15 22:59:59 INFO  shutting down Metals
+2025.09.15 22:59:59 INFO  Exiting server
