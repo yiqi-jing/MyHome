@@ -2,6 +2,7 @@
 import requests as req
 import re
 import json
+from lxml import etree
 
 # 设置伪装信息
 heads = {
@@ -34,3 +35,5 @@ print(result)
 # <textarea id="hotsearch_data" style="display:none;">(.*)</textarea>
 result2 = re.findall('<script type="application/json" id="placeholder-data" data-for="result-data">(.*)</script>', res.text)
 print(result2)
+
+# //*[@id="recent-hot"]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/a/div[2]/span/span[1]
