@@ -990,3 +990,28 @@
 2025.09.17 08:50:37 INFO  Shutting down server
 2025.09.17 08:50:37 INFO  shutting down Metals
 2025.09.17 08:50:37 INFO  Exiting server
+2025.09.17 08:51:00 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.17 08:51:05 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.17 08:51:05 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.17 08:51:05 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.17 08:51:05 INFO  Successfully validated 7 migrations (execution time 00:00.073s)
+2025.09.17 08:51:05 INFO  Successfully validated 7 migrations (execution time 00:00.073s)
+2025.09.17 08:51:05 INFO  Successfully validated 7 migrations (execution time 00:00.074s)
+2025.09.17 08:51:05 INFO  Current version of schema "PUBLIC": 7
+2025.09.17 08:51:05 INFO  Current version of schema "PUBLIC": 7
+2025.09.17 08:51:05 INFO  Current version of schema "PUBLIC": 7
+2025.09.17 08:51:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.17 08:51:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.17 08:51:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.17 08:51:05 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.17 08:51:05 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.17 08:51:05 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.17 08:51:05 WARN  Build server is not auto-connectable.
+2025.09.17 08:51:05 WARN  Build server is not auto-connectable.
+2025.09.17 08:51:05 WARN  Build server is not auto-connectable.
+9月 17, 2025 10:56:45 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 17, 2025 10:56:45 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 17, 2025 10:56:45 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
