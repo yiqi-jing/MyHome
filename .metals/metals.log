@@ -1219,3 +1219,94 @@
 信息: Unsupported notification method: $/setTrace
 9月 21, 2025 4:52:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2025.09.21 23:06:13 INFO  Shutting down server
+2025.09.21 23:06:13 INFO  shutting down Metals
+2025.09.21 23:06:13 INFO  Exiting server
+2025.09.22 10:09:52 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.22 10:09:53 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.22 10:09:53 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.22 10:09:53 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.22 10:09:53 INFO  Successfully validated 7 migrations (execution time 00:00.086s)
+2025.09.22 10:09:53 INFO  Successfully validated 7 migrations (execution time 00:00.086s)
+2025.09.22 10:09:53 INFO  Successfully validated 7 migrations (execution time 00:00.086s)
+2025.09.22 10:09:53 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 10:09:53 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 10:09:53 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 10:09:53 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 10:09:53 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 10:09:53 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 10:09:53 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 10:09:54 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 10:09:54 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 10:09:54 WARN  Build server is not auto-connectable.
+2025.09.22 10:09:54 WARN  Build server is not auto-connectable.
+2025.09.22 10:09:54 WARN  Build server is not auto-connectable.
+2025.09.22 11:31:09 INFO  Shutting down server
+2025.09.22 11:31:09 INFO  shutting down Metals
+2025.09.22 11:31:09 INFO  Exiting server
+2025.09.22 15:46:07 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.22 15:46:08 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.22 15:46:08 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.22 15:46:08 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.22 15:46:08 INFO  Successfully validated 7 migrations (execution time 00:00.041s)
+2025.09.22 15:46:08 INFO  Successfully validated 7 migrations (execution time 00:00.041s)
+2025.09.22 15:46:08 INFO  Successfully validated 7 migrations (execution time 00:00.041s)
+2025.09.22 15:46:08 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 15:46:08 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 15:46:08 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 15:46:08 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 15:46:08 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 15:46:08 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 15:46:08 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 15:46:08 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 15:46:08 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 15:46:08 WARN  Build server is not auto-connectable.
+2025.09.22 15:46:08 WARN  Build server is not auto-connectable.
+2025.09.22 15:46:08 WARN  Build server is not auto-connectable.
+2025.09.22 15:47:47 INFO  Shutting down server
+2025.09.22 15:47:47 INFO  shutting down Metals
+2025.09.22 15:47:47 INFO  Exiting server
+2025.09.22 17:06:38 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.22 17:06:40 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.22 17:06:40 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.22 17:06:40 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.22 17:06:40 INFO  Successfully validated 7 migrations (execution time 00:00.065s)
+2025.09.22 17:06:40 INFO  Successfully validated 7 migrations (execution time 00:00.065s)
+2025.09.22 17:06:40 INFO  Successfully validated 7 migrations (execution time 00:00.065s)
+2025.09.22 17:06:40 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:06:40 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:06:40 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:06:40 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:06:40 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:06:40 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:06:40 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:06:40 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:06:40 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:06:40 WARN  Build server is not auto-connectable.
+2025.09.22 17:06:40 WARN  Build server is not auto-connectable.
+2025.09.22 17:06:40 WARN  Build server is not auto-connectable.
+2025.09.22 17:09:47 INFO  Shutting down server
+2025.09.22 17:09:47 INFO  shutting down Metals
+2025.09.22 17:09:47 INFO  Exiting server
+2025.09.22 17:10:09 INFO  Started: Metals version 1.6.2+51-9cd72a64-SNAPSHOT in folders 'F:\Python, F:\C++, F:\Source-code-management-repository\MyHome' for client Visual Studio Code - Insiders 1.105.0-insider.
+2025.09.22 17:10:12 INFO  Database: jdbc:h2:file:F:\Python\.metals\metals (H2 2.3)
+2025.09.22 17:10:12 INFO  Database: jdbc:h2:file:F:\Source-code-management-repository\MyHome\.metals\metals (H2 2.3)
+2025.09.22 17:10:12 INFO  Database: jdbc:h2:file:F:\C++\.metals\metals (H2 2.3)
+2025.09.22 17:10:12 INFO  Successfully validated 7 migrations (execution time 00:00.048s)
+2025.09.22 17:10:12 INFO  Successfully validated 7 migrations (execution time 00:00.049s)
+2025.09.22 17:10:12 INFO  Successfully validated 7 migrations (execution time 00:00.048s)
+2025.09.22 17:10:12 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:10:12 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:10:12 INFO  Current version of schema "PUBLIC": 7
+2025.09.22 17:10:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:10:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:10:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.09.22 17:10:12 WARN  no build tool detected in workspace 'F:\C++'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:10:12 WARN  no build tool detected in workspace 'F:\Python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:10:12 WARN  no build tool detected in workspace 'F:\Source-code-management-repository\MyHome'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.22 17:10:12 WARN  Build server is not auto-connectable.
+2025.09.22 17:10:12 WARN  Build server is not auto-connectable.
+2025.09.22 17:10:12 WARN  Build server is not auto-connectable.
+2025.09.22 17:10:19 INFO  Shutting down server
+2025.09.22 17:10:19 INFO  shutting down Metals
+2025.09.22 17:10:19 INFO  Exiting server
